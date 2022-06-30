@@ -42,7 +42,7 @@ const ActivitiesList = [
         imgName: 'pixels.png',
         name: 'Pixels',
         sub:
-          'The Pixels seminar focuses on the roots and concepts of Computer-Vision and Image-Processing which are a powerfull tool in today\'s world of over evergrowing AI and bleeding-edge computer vision techs. The workshop illuminates the very basics of Python and Git/GitHub. Together then we code our way to our very own blob detection algorithm that will help us easily track a particular object in a video/live camera.',
+          "The Pixels seminar focuses on the roots and concepts of Computer-Vision and Image-Processing which are a powerfull tool in today's world of over evergrowing AI and bleeding-edge computer vision techs. The workshop illuminates the very basics of Python and Git/GitHub. Together then we code our way to our very own blob detection algorithm that will help us easily track a particular object in a video/live camera.",
         githubLink: 'https://github.com/SRA-VJTI/Pixels_Seminar/',
         youtubeLink: '',
       },
