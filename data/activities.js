@@ -21,7 +21,7 @@ const ActivitiesList = [
         name: 'Wall E',
         sub:
           'The Wall-E workshop focuses on the concepts of line-following and self-balancing, using ESP32, a powerful micro-controller with features like inbuilt Wi-Fi support and BLE, with extensive application in several domains like IoT, RF, etc. The workshop entails various essential concepts such as PID Control, Embedded Communication Protocols, PWM, Filters, RTOS, etc. and gives its attendees (first-year students) a general idea about the world of robotics and embedded hardware.',
-        githubLink: 'https://github.com/SRA-VJTI/Wall-E_v2.2',
+        githubLink: 'https://www.youtube.com/watch?v=gy98bAHNY_c',
         youtubeLink: 'https://www.youtube.com/watch?v=-AbwiFBjHl0&t=36s',
       },
       {
@@ -34,6 +34,29 @@ const ActivitiesList = [
       },
     ],
   },
+
+  {
+    name: 'Seminars',
+    activities: [
+      {
+        imgName: 'pixels.png',
+        name: 'Pixels',
+        sub:
+          'The Pixels seminar focuses on the roots and concepts of Computer-Vision and Image-Processing which are a powerfull tool in today\'s world of over evergrowing AI and bleeding-edge computer vision techs. The workshop illuminates the very basics of Python and Git/GitHub. Together then we code our way to our very own blob detection algorithm that will help us easily track a particular object in a video/live camera.',
+        githubLink: 'https://github.com/SRA-VJTI/Pixels_Seminar/',
+        youtubeLink: '',
+      },
+      {
+        imgName: 'dimensions.png',
+        name: 'Dimensions',
+        sub:
+          'CAD is an essential skillset for many designers, is used in a plethora of interesting and cutting edge domains. The Dimensions wokshop is an online workshop on Solidworks. Here one learns 3D designing, make robotic parts and assemblies from scratch.',
+        githubLink: 'https://github.com/SRA-VJTI/Dimensions-v1.0',
+        youtubeLink: '',
+      },
+    ],
+  },
+
   {
     name: 'Competitions',
     activities: [
